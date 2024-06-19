@@ -1,0 +1,17 @@
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\bin\Debug\Bikowski_1.exe.config
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\bin\Debug\Bikowski_1.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\bin\Debug\Bikowski_1.pdb
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.Form1.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.Properties.Resources.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.csproj.GenerateResource.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.pdb
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.Form1.resources
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.Properties.Resources.resources
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.csproj.GenerateResource.cache
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.exe
+C:\Users\Remy\Desktop\GitHub Portfolio\Bikowski_1\Bikowski_1\obj\Debug\Bikowski_1.pdb

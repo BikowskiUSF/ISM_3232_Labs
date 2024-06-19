@@ -1,0 +1,10 @@
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\bin\Debug\Bikowski_2.exe.config
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\bin\Debug\Bikowski_2.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\bin\Debug\Bikowski_2.pdb
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.Properties.Resources.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.csproj.GenerateResource.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.pdb
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_2\Bikowski_2\obj\Debug\Bikowski_2.orderForm.resources
