@@ -1,0 +1,7 @@
+Date: 03-25-2022
+Property Price: $100.00
+State Sales Tax: $6.00
+Country Sales Tax: $1.00
+Commission: $5.00
+Total Price: $112.00
+
