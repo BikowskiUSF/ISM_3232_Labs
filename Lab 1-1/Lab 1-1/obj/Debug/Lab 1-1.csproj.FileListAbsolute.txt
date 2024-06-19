@@ -1,0 +1,10 @@
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\bin\Debug\Lab 1-1.exe.config
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\bin\Debug\Lab 1-1.exe
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\bin\Debug\Lab 1-1.pdb
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab 1-1.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab_1_1.Form1.resources
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab_1_1.Properties.Resources.resources
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab 1-1.csproj.GenerateResource.cache
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab 1-1.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab 1-1.exe
+C:\Users\Remy\Desktop\ISM 3232\Lab 1-1\Lab 1-1\obj\Debug\Lab 1-1.pdb

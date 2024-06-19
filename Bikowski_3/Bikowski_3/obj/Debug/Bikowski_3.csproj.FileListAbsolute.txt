@@ -1,0 +1,10 @@
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\bin\Debug\Bikowski_3.exe.config
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\bin\Debug\Bikowski_3.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\bin\Debug\Bikowski_3.pdb
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.Form1.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.Properties.Resources.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.csproj.GenerateResource.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_3\Bikowski_3\obj\Debug\Bikowski_3.pdb

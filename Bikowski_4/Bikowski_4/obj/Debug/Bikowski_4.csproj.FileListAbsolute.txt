@@ -1,0 +1,11 @@
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\bin\Debug\Bikowski_4.exe.config
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\bin\Debug\Bikowski_4.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\bin\Debug\Bikowski_4.pdb
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.Properties.Resources.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.csproj.GenerateResource.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.exe
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.pdb
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.RegistrationForm.resources
+C:\Users\Remy\Desktop\ISM 3232\Bikowski_4\Bikowski_4\obj\Debug\Bikowski_4.AboutBox1.resources
